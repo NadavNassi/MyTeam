@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/%E2%80%8Bhttps://nadavnassi.github.io/MyTeam%E2%80%8B/static/css/main.884b06cc.chunk.css",
+    "main.js": "/%E2%80%8Bhttps://nadavnassi.github.io/MyTeam%E2%80%8B/static/js/main.8b34561c.chunk.js",
+    "main.js.map": "/%E2%80%8Bhttps://nadavnassi.github.io/MyTeam%E2%80%8B/static/js/main.8b34561c.chunk.js.map",
+    "runtime-main.js": "/%E2%80%8Bhttps://nadavnassi.github.io/MyTeam%E2%80%8B/static/js/runtime-main.006d459f.js",
+    "runtime-main.js.map": "/%E2%80%8Bhttps://nadavnassi.github.io/MyTeam%E2%80%8B/static/js/runtime-main.006d459f.js.map",
+    "static/js/2.b43155c9.chunk.js": "/%E2%80%8Bhttps://nadavnassi.github.io/MyTeam%E2%80%8B/static/js/2.b43155c9.chunk.js",
+    "static/js/2.b43155c9.chunk.js.map": "/%E2%80%8Bhttps://nadavnassi.github.io/MyTeam%E2%80%8B/static/js/2.b43155c9.chunk.js.map",
+    "static/js/3.1fdea4ec.chunk.js": "/%E2%80%8Bhttps://nadavnassi.github.io/MyTeam%E2%80%8B/static/js/3.1fdea4ec.chunk.js",
+    "static/js/3.1fdea4ec.chunk.js.map": "/%E2%80%8Bhttps://nadavnassi.github.io/MyTeam%E2%80%8B/static/js/3.1fdea4ec.chunk.js.map",
+    "index.html": "/%E2%80%8Bhttps://nadavnassi.github.io/MyTeam%E2%80%8B/index.html",
+    "static/css/main.884b06cc.chunk.css.map": "/%E2%80%8Bhttps://nadavnassi.github.io/MyTeam%E2%80%8B/static/css/main.884b06cc.chunk.css.map",
+    "static/js/2.b43155c9.chunk.js.LICENSE.txt": "/%E2%80%8Bhttps://nadavnassi.github.io/MyTeam%E2%80%8B/static/js/2.b43155c9.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/%E2%80%8Bhttps://nadavnassi.github.io/MyTeam%E2%80%8B/static/media/icon-quotes.c5173921.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.006d459f.js",
+    "static/js/2.b43155c9.chunk.js",
+    "static/css/main.884b06cc.chunk.css",
+    "static/js/main.8b34561c.chunk.js"
+  ]
+}
